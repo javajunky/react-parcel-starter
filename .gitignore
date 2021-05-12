@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/node,macos,react,code,sass
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,react,code,sass
 
@@ -165,5 +164,8 @@ sketch
 *.css.map
 *.sass.map
 *.scss.map
+
+### Parcel ###
+.parcel-cache
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,react,code,sass
